@@ -1,5 +1,10 @@
 /* Default content styles */
 
+.container {
+  padding-left: 1rem;
+  padding-right: 1rem;
+}
+
 .primo-content {
   font-size: 1.125rem;
   --text-opacity: 1;
